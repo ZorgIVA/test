@@ -1,2 +1,3 @@
 one step
-tow step
+two step
+3 step
